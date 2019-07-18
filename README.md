@@ -1,1 +1,5 @@
-# svg-1-cat
+# SVG-1-cat
+
+## Educational task from Circle WebAcademy
+
+Намалюйте кота з використанням svg.
